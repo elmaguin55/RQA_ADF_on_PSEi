@@ -63,7 +63,7 @@ All source code used to generate the results and figures in the paper for the AD
 | File/folder | function |
 |----------|-------------|
 |ADF_test            | ADF Implementation folder |
-|adf.R    | Main R source code |
+|adf.R    | Main R script|
 |psei.csv         | Monthly PSEi data (2000–2024) |
 
 
@@ -74,6 +74,6 @@ All source code used to generate the results and figures in the paper for the AD
 
 
 ## Status
-This repository accompanies a research paper submitted to Physica A: Statistical Mechanics and its Applications.
+This repository accompanies the research paper submitted to Physica A: Statistical Mechanics and its Applications.
 
 
