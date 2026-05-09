@@ -1,0 +1,70 @@
+RQA  stocks Embedding dimensions:2 
+ DET of original:0.7484999999981288 
+ Recurrence rate: 0.050006406597630726 
+ Threshold:0.16329999999999834 
+ Laminarity:0.860470533424504 
+ Shannon Entropy:1.7614620803852157 
+ Rank-order p-value (det):0.01 
+ Rank-order p-value (lam):0.03 
+ Rank-order p-value (entr):0.01 
+Reject null (det) hypothesis:True
+ Reject null (lam) hypothesis:True
+ Reject null (entr) hypothesis:True
+ 
+ 
+RQA  stocks Embedding dimensions:3 
+ DET of original:0.8128286014699978 
+ Recurrence rate: 0.05000244510734021 
+ Threshold:0.24499999999998934 
+ Laminarity:0.9122249388730753 
+ Shannon Entropy:1.983265234382241 
+ Rank-order p-value (det):0.01 
+ Rank-order p-value (lam):0.01 
+ Rank-order p-value (entr):0.01 
+Reject null (det) hypothesis:True
+ Reject null (lam) hypothesis:True
+ Reject null (entr) hypothesis:True
+ 
+ 
+RQA  stocks Embedding dimensions:4 
+ DET of original:0.8660763696710956 
+ Recurrence rate: 0.050012204365308774 
+ Threshold:0.3313999999999798 
+ Laminarity:0.9334703313615889 
+ Shannon Entropy:2.0158494169858185 
+ Rank-order p-value (det):0.01 
+ Rank-order p-value (lam):0.02 
+ Rank-order p-value (entr):0.04 
+Reject null (det) hypothesis:True
+ Reject null (lam) hypothesis:True
+ Reject null (entr) hypothesis:True
+ 
+ 
+RQA  stocks Embedding dimensions:5 
+ DET of original:0.904956268218936 
+ Recurrence rate: 0.050037846020761244 
+ Threshold:0.4198999999999701 
+ Laminarity:0.9573203673664038 
+ Shannon Entropy:2.1211226875797116 
+ Rank-order p-value (det):0.01 
+ Rank-order p-value (lam):0.01 
+ Rank-order p-value (entr):0.01 
+Reject null (det) hypothesis:True
+ Reject null (lam) hypothesis:True
+ Reject null (entr) hypothesis:True
+ 
+ 
+RQA  stocks Embedding dimensions:6 
+ DET of original:0.9304187192089581 
+ Recurrence rate: 0.050024919900320396 
+ Threshold:0.49639999999996165 
+ Laminarity:0.9712496441759999 
+ Shannon Entropy:2.1697022557231493 
+ Rank-order p-value (det):0.01 
+ Rank-order p-value (lam):0.01 
+ Rank-order p-value (entr):0.01 
+Reject null (det) hypothesis:True
+ Reject null (lam) hypothesis:True
+ Reject null (entr) hypothesis:True
+ 
+ 
