@@ -5,7 +5,7 @@ using Random
 d = parse(Int, ARGS[2])
 #ρs = 0.1:0.05:1.0
 rng = MersenneTwister(1234)
-x = vec(Float64.(readdlm("stocks", ';')))
+x = vec(Float64.(readdlm("stocks")))
 #nn = noiseradius(x, d, 7, ρs, 10)
 method = PseudoPeriodic(d, 7, ρ, true)
 sg = surrogenerator(x, method, rng)

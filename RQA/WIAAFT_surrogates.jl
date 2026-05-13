@@ -1,7 +1,7 @@
 using TimeseriesSurrogates
 using DelimitedFiles
 using Random
-x = vec(Float64.(readdlm("stocks", ';')))
+x = vec(Float64.(readdlm("stocks")))
 rng = MersenneTwister(1234)
 method = WLS(IAAFT(), rescale = true)
 sg = surrogenerator(x, method, rng)
