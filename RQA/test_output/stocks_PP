@@ -1,70 +1,70 @@
 RQA  stocks Embedding dimensions:2 
- DET of original:0.7484999999981288 
- Recurrence rate: 0.050006406597630726 
- Threshold:0.1633000000000225 
- Laminarity:0.860470533424504 
- Shannon Entropy:1.7614620803852157 
- Rank-order p-value (det):1.0 
- Rank-order p-value (lam):1.0 
- Rank-order p-value (entr):1.0 
+ DET of original:0.7542204568005109 
+ Recurrence rate: 0.05000231385071035 
+Threshold:0.1599999999999987 
+ Laminarity:0.8609440074019876 
+Shannon Entropy:1.7887444109892805 
+Rank-order p-value (det):1.0 
+Rank-order p-value (lam):1.0 
+Rank-order p-value (entr):0.99 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
- Reject null (entr) hypothesis:False
+Reject null (entr) hypothesis:False
  
  
 RQA  stocks Embedding dimensions:3 
- DET of original:0.8128286014699978 
- Recurrence rate: 0.05000244510734021 
- Threshold:0.24500000000010422 
- Laminarity:0.9122249388730753 
- Shannon Entropy:1.983265234382241 
- Rank-order p-value (det):1.0 
- Rank-order p-value (lam):1.0 
- Rank-order p-value (entr):1.0 
+ DET of original:0.8234075608471688 
+ Recurrence rate: 0.050033757716049385 
+Threshold:0.23889999999999 
+ Laminarity:0.9084337349375701 
+Shannon Entropy:1.9508420715265373 
+Rank-order p-value (det):1.0 
+Rank-order p-value (lam):1.0 
+Rank-order p-value (entr):1.0 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
- Reject null (entr) hypothesis:False
+Reject null (entr) hypothesis:False
  
  
 RQA  stocks Embedding dimensions:4 
- DET of original:0.8660763696710956 
- Recurrence rate: 0.050012204365308774 
- Threshold:0.33135000000019055 
- Laminarity:0.9334703313615889 
- Shannon Entropy:2.0158494169858185 
- Rank-order p-value (det):1.0 
- Rank-order p-value (lam):1.0 
- Rank-order p-value (entr):1.0 
+ DET of original:0.876690102755877 
+ Recurrence rate: 0.050047784316684274 
+Threshold:0.3259999999999804 
+ Laminarity:0.9354271356760416 
+Shannon Entropy:2.1089753584358295 
+Rank-order p-value (det):1.0 
+Rank-order p-value (lam):1.0 
+Rank-order p-value (entr):1.0 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
- Reject null (entr) hypothesis:False
+Reject null (entr) hypothesis:False
  
  
 RQA  stocks Embedding dimensions:5 
- DET of original:0.9043173862284005 
- Recurrence rate: 0.05001081314878893 
- Threshold:0.4198700000002791 
- Laminarity:0.95729729729471 
- Shannon Entropy:2.1211226875797116 
- Rank-order p-value (det):1.0 
- Rank-order p-value (lam):1.0 
- Rank-order p-value (entr):1.0 
+ DET of original:0.9049235993183222 
+ Recurrence rate: 0.050015752993068686 
+Threshold:0.40469999999997175 
+ Laminarity:0.9548556430421132 
+Shannon Entropy:2.1310423583923637 
+Rank-order p-value (det):1.0 
+Rank-order p-value (lam):1.0 
+Rank-order p-value (entr):1.0 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
- Reject null (entr) hypothesis:False
+Reject null (entr) hypothesis:False
  
  
 RQA  stocks Embedding dimensions:6 
- DET of original:0.9304187192089581 
- Recurrence rate: 0.050024919900320396 
- Threshold:0.4963700000003556 
- Laminarity:0.9712496441759999 
- Shannon Entropy:2.1697022557231493 
- Rank-order p-value (det):1.0 
- Rank-order p-value (lam):1.0 
- Rank-order p-value (entr):1.0 
+ DET of original:0.9318720379119317 
+ Recurrence rate: 0.05001371742112483 
+Threshold:0.48369999999996305 
+ Laminarity:0.9687328579238379 
+Shannon Entropy:2.318085964176623 
+Rank-order p-value (det):1.0 
+Rank-order p-value (lam):1.0 
+Rank-order p-value (entr):0.88 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
- Reject null (entr) hypothesis:False
+Reject null (entr) hypothesis:False
  
  
