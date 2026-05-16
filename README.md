@@ -42,7 +42,9 @@ The source code is tested for Python v3.10.0. The source codes is tested in Ubun
 | pyunicorn | 0.8.2 |
 |pandas | 2.3.3 |
 | tqdm | 4.67.1 |
-| Package (Python) | Version |
+
+
+| Package (Julia) | Version |
 | -------- | -------- |
 |TimeseriesSurrogates | 2.8.0|
 |Random | 1.11.0 |
