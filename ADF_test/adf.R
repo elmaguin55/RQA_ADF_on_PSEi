@@ -10,9 +10,9 @@ library(crqa)
 library(rlang)
 library(readr)
 
-cols <- read.csv("psei_monthly.csv", stringsAsFactors = FALSE)[, c(1, 2)]
-data <- as.numeric(paste0(cols[,1], cols[,2]))
+data <- read.csv("stocks", header=FALSE, stringsAsFactors = FALSE)
 price_ts <- ts(data)
+print(data)
 
 
 
@@ -30,7 +30,6 @@ p_value = round(p_value, 6),Decision = decision)
 
 # Display table
 apa_table
-print(data)
 print(kpss.test(price_ts, null = "Trend"))
 pp.test(price_ts, type = "Z(t_alpha)")
-pp.test(price_ts, type = "Z(alpha)")
+
