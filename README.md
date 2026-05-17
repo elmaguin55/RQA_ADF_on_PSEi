@@ -92,3 +92,13 @@ All source code used to generate the results and figures in the paper for the AD
 
 ## Status
 This repository accompanies the research paper submitted to Physica A: Statistical Mechanics and its Applications.
+
+## PSEi Data Availability
+The historical Philippine Stock Exchange Index (PSEi) data from January 2000 to December 2024 used in this study were obtained upon request from the Philippine Stock Exchange Inc. The PSE Inc. approved the use the requested data for our research. Please, see the disclaimer below.
+
+Disclaimer from PSEi: 
+“The raw data provided by PSE in this document is a property of the PSE and cannot be used or reproduced, distributed or forwarded by any person or company, in any form and in any manner, without the written consent of the PSE. Any and all unauthorized reproduction, distribution or forwarding of said raw data, in whole or in part, is subject to legal action.
+
+The PSE reserves the right to make adjustments, omissions, corrections, and other similar actions to the raw data it provided at any period of time. The PSE does not warrant or represent, expressly or impliedly, the accuracy, validity, correctness and completeness of the information used in this document. The PSE, together with its affiliates and subsidiaries, expressly disclaim any and all liability arising from any actions or decisions made on the basis of this document, its content, and/or any changes, omission or error of the aforementioned.
+
+Any views or opinions, either defamatory or complimentary, are solely those of the author and do not necessarily represent those of the PSE. The PSE together with its affiliates and subsidiaries will not accept any liability arising from the consequences of, and any actions or decisions made in respect to any statements expressed henceforth.”
