@@ -1,20 +1,11 @@
-#uncomment to install necessary packages
+#uncomment to install tseries
 #install.packages("tseries")
-#install.packages("crqa")
-#install.packages("rlang")
-#install.packages("readr")
 
 #Load packages
 library(tseries)
-library(crqa)
-library(rlang)
-library(readr)
 
-data <- read.csv("stocks", header=FALSE, stringsAsFactors = FALSE)
-price_ts <- ts(data)
-print(data)
-
-
+data <- read.table("stocks", header=FALSE, stringsAsFactors = FALSE)
+price_ts <- ts(as.numeric(data[[1]]))
 
 adf_result <- adf.test(price_ts)
 # Extract values safely
