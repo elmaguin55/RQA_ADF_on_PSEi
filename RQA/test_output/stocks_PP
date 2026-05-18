@@ -6,7 +6,7 @@ Threshold:0.1599999999999987
 Shannon Entropy:1.7887444109892805 
 Rank-order p-value (det):1.0 
 Rank-order p-value (lam):1.0 
-Rank-order p-value (entr):0.99 
+Rank-order p-value (entr):0.89 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
 Reject null (entr) hypothesis:False
@@ -48,7 +48,7 @@ Threshold:0.40469999999997175
 Shannon Entropy:2.1310423583923637 
 Rank-order p-value (det):1.0 
 Rank-order p-value (lam):1.0 
-Rank-order p-value (entr):1.0 
+Rank-order p-value (entr):0.99 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
 Reject null (entr) hypothesis:False
@@ -62,7 +62,7 @@ Threshold:0.48369999999996305
 Shannon Entropy:2.318085964176623 
 Rank-order p-value (det):1.0 
 Rank-order p-value (lam):1.0 
-Rank-order p-value (entr):0.88 
+Rank-order p-value (entr):0.58 
 Reject null (det) hypothesis:False
  Reject null (lam) hypothesis:False
 Reject null (entr) hypothesis:False
