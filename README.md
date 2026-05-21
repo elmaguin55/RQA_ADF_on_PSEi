@@ -68,9 +68,6 @@ All source code used to generate the results and figures in the paper for the AD
 |-------|-------|
 | R| 4.3.3|
 |tseries| 0.10-61|
-|readr | 2.2.0|
-|rlang |1.2.0|
-|crqa | 2.0.7|
 |R Studio | RStudio 2026.04.0+526 |
 
 #### Repository Structure
