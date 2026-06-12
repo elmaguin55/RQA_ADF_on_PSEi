@@ -1,17 +1,3 @@
-RQA  stocks Embedding dimensions:2 
- DET of original:0.7542204568005109 
- Recurrence rate: 0.05000231385071035 
-Threshold:0.1599999999999987 
- Laminarity:0.8609440074019876 
-Shannon Entropy:1.7887444109892805 
-Rank-order p-value (det):1.0 
-Rank-order p-value (lam):1.0 
-Rank-order p-value (entr):0.89 
-Reject null (det) hypothesis:False
- Reject null (lam) hypothesis:False
-Reject null (entr) hypothesis:False
- 
- 
 RQA  stocks Embedding dimensions:3 
  DET of original:0.8234075608471688 
  Recurrence rate: 0.050033757716049385 
