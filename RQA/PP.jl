@@ -8,6 +8,7 @@ rng = MersenneTwister(1234)
 x = vec(Float64.(readdlm("stocks")))
 method = PseudoPeriodic(d, 6, ρ, true)
 sg = surrogenerator(x, method, rng)
+
 for i in 1:9
     s = sg();
     writedlm("./surro_index/PP/qp_surr_00$i", s)
