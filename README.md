@@ -3,7 +3,7 @@
 
 
 ## Overview
-This repository contains the data and code used to analyze the long-term dynamics of the Philippine Stock Exchange Index (PSEi) using Recurrence quantification analysis with surrogate-based tests and Augmented Dickey-Fuller unit-root tests on the Philippine Stock Exchange Index. WIAAFT surrogate-based test rejects the linear Gaussian null hypothesis for DET, LAM, and ENTR, providing statistical evidence against linear dynamics. PPS surrogate-based test fails to reject the pseudo-periodic null hypothesis for DET, LAM, and ENTR, indicating dynamics consistent with noisy pseudo-periodicity. ADF, KPSS, and PP tests consistently indicate unit-root nonstationarity in the PSEi in the linear framework. Overall, the results indicate that the PSEi is nonstationary under linear ADF tests while exhibiting statistically detectable nonlinear structure consistent with intermittent pseudo-periodic dynamics masked by uncorrelated noise.
+This repository contains the data and code used to analyze the long-term dynamics of the Philippine Stock Exchange Index (PSEi) and log-returns using Recurrence quantification analysis with surrogate-based tests
 
 
 ## Implementation
