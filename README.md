@@ -1,4 +1,4 @@
-# Recurrence quantification analysis with surrogate-based hypothesis tests and Augmented Dickey-Fuller unit-root tests on the Philippine Stock Exchange Index
+# Nonlinear dynamics of the Philippine Stock Exchange Index using recurrence quantification analysis with dual surrogate testing
 ### by John Carlo Elmaguin, Romie Mabborang, Jennifer Sy, Gerald Estoperez, Karen Quola Rubio
 
 
