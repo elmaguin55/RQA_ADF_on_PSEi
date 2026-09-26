@@ -16,4 +16,9 @@ for i in 10:99
     writedlm("./surro_index/Random_s/qp_surr_0$i", s)
 end
 
+for i in 100:999
+    s = sg();
+    writedlm("./surro_index/Random_s/qp_surr_0$i", s)
+end
+
 println("Random shuffle surrogates generated successfullly")
