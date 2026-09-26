@@ -1,0 +1,84 @@
+RQA  rw Embedding dimensions:3 
+ DET of original:0.7125348189395194 
+ Recurrence rate: 0.0500491692976554 
+Threshold:0.5373999999999571 
+ Laminarity:0.8526370217144451 
+Shannon Entropy:1.5676695212821903 
+Rank-order p-value (det):0.139 
+Rank-order p-value (lam):0.07 
+Rank-order p-value (entr):0.034 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:True
+ 
+ 
+RQA  rw Embedding dimensions:4 
+ DET of original:0.7448484848462278 
+ Recurrence rate: 0.050035769894373604 
+Threshold:0.7008999999999391 
+ Laminarity:0.8595458368352691 
+Shannon Entropy:1.6092935086838525 
+Rank-order p-value (det):0.233 
+Rank-order p-value (lam):0.33 
+Rank-order p-value (entr):0.197 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:False
+ 
+ 
+RQA  rw Embedding dimensions:5 
+ DET of original:0.7974851091965669 
+ Recurrence rate: 0.050018310546875 
+Threshold:0.829399999999925 
+ Laminarity:0.8852959121388491 
+Shannon Entropy:1.7352498644642929 
+Rank-order p-value (det):0.093 
+Rank-order p-value (lam):0.208 
+Rank-order p-value (entr):0.114 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:False
+ 
+ 
+RQA  rw Embedding dimensions:6 
+ DET of original:0.8158085569223502 
+ Recurrence rate: 0.05002915451895044 
+Threshold:0.9335999999999135 
+ Laminarity:0.9080919080888842 
+Shannon Entropy:1.8928492675277704 
+Rank-order p-value (det):0.121 
+Rank-order p-value (lam):0.143 
+Rank-order p-value (entr):0.031 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:True
+ 
+ 
+RQA  rw Embedding dimensions:7 
+ DET of original:0.8186900958433758 
+ Recurrence rate: 0.05000365256775513 
+Threshold:1.0241999999999036 
+ Laminarity:0.9145361577760609 
+Shannon Entropy:1.8326574580790456 
+Rank-order p-value (det):0.263 
+Rank-order p-value (lam):0.253 
+Rank-order p-value (entr):0.147 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:False
+ 
+ 
+RQA  rw Embedding dimensions:8 
+ DET of original:0.83597883597515 
+ Recurrence rate: 0.05009149590782039 
+Threshold:1.1073999999998945 
+ Laminarity:0.9209152950585271 
+Shannon Entropy:1.7145574958587482 
+Rank-order p-value (det):0.334 
+Rank-order p-value (lam):0.434 
+Rank-order p-value (entr):0.451 
+Reject null (det) hypothesis:False
+ Reject null (lam) hypothesis:False
+Reject null (entr) hypothesis:False
+ 
+ 
