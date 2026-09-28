@@ -51,7 +51,7 @@ The source code is tested for Python v3.10.0. The source code is tested in Ubunt
 |TimeseriesSurrogates | 2.8.0|
 |Random | 1.11.0 |
 |Wavelets | 0.10.2 |
-|Wavelets | 0.2.3 |
+|WaveletsExt | 0.2.3 |
 
 
 
