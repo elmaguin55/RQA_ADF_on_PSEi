@@ -7,8 +7,8 @@ d = parse(Int, ARGS[2])
 t_min = parse(Int, ARGS[3])
 n = ARGS[4]
 rng = MersenneTwister(1234)
-x = vec(Float64.(readdlm(n)))
-method = PseudoPeriodic(d, t_min, ρ, true)
+x = vec(Float64.(readdlm("$(n)_norm")))
+method = PseudoPeriodic(d, t_min, ρ, false)
 sg = surrogenerator(x, method, rng)
 
 for i in 1:9
@@ -26,4 +26,4 @@ for i in 100:999
     writedlm("./surro_index/PP/qp_surr_$i", s)
 end
 
-println("Pseudo-periodic surrogates generated successfullly")
+println("$(n)_norm Pseudo-periodic surrogates generated successfullly")
