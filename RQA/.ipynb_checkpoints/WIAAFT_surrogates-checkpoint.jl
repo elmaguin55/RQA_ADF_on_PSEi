@@ -7,7 +7,7 @@ using Wavelets, WaveletsExt
 n = ARGS[1]
 x = vec(Float64.(readdlm(n)))
 rng = MersenneTwister(1234)
-method = WLS(IAAFT(M = 100, W = 75), f = Statistics.cor, rescale = true, wt = Wavelets.WT.db4)
+method = WLS(IAAFT(M = 100, W = 75), f = Statistics.cor, rescale = true, wt = Wavelets.WT.Daubechies{16}())
 sg = surrogenerator(x, method, rng)
 for i in 1:9
     s = sg()
